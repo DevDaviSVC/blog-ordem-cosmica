@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+:root {
+  --textColor: #f5f5f5;
+  --backgroundOne: #172426;
+  --backgroundTwo: #2e4d59;
+  --textColorAlt: #a69a97;
+  --textColorAltTwo: #f2eceb;
+}
+
+.textColor {
+  color: var(--textColor);
+}
+
+.backgroundOne {
+  background-color: var(--backgroundOne);
+}
+
+.backgroundTwo {
+  background-color: var(--backgroundTwo);
+}
+
+.textColorAlt {
+  color: var(--textColorAlt);
+}
+
+.textColorAltTwo {
+  color: var(--textColorAltTwo);
+}
